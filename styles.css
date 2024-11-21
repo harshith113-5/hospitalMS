@@ -1,0 +1,169 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fbfbfb;
+    color: #000000;
+}
+
+header {
+    background-color: #025104;
+    padding: 1rem;
+    text-align: center;
+}
+
+header nav a {
+    color: rgb(251, 251, 251);
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+header h1 {
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+form label, form input, form select, form button {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+}
+
+form input, form select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button {
+    background-color: #207d23;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+form button:hover {
+    background-color: #4bf953;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #08f310;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+#prescriptions .prescription {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+} */
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #000000;
+} */
+
+/* header {
+    background-color: #004080; Dark blue
+    padding: 1rem;
+    text-align: center;
+}
+
+header nav a {
+    color: #ffffff; White text
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+header h1 {
+    margin-bottom: 0.5rem;
+    color: white;
+} */
+
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; /* White background */
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #004080; /* Matching blue heading */
+}
+
+form label, form input, form select, form button {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+}
+
+form input, form select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button {
+    background-color: #0074cc; /* Medium blue */
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #005ea3; /* Darker blue on hover */
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #003366; /* Dark navy */
+    color: white;
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+}
+
+#prescriptions .prescription {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-left: 5px solid #0074cc; /* Blue border accent */
+    border-radius: 4px;
+}
